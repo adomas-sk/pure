@@ -1,0 +1,14 @@
+{
+  "name": "pure",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:adomas-sk/pure.git",
+  "author": "Adomas Skliutas <adomasskliutaslt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-html-parser": "^5.1.0"
+  }
+}
